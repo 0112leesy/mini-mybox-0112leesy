@@ -77,11 +77,8 @@ NCP Object Storage
 
 ## ERD
 
-<br>
+<img width="860" alt="image" src="https://github.com/0112leesy/mini-mybox-0112leesy/assets/78717113/991764c5-b819-40a6-bf93-94aabc24c846">
 
-## 아키텍처
-
-<br>
 
 ## 챌린지 기록 상세
 
